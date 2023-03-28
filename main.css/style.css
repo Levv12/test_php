@@ -1,3 +1,9 @@
-body {
-    background-color: aqua;
+.card-body { 
+    width: 32%;
+    margin-left: 15% ;
+}
+
+.d-flex { 
+   
+    margin-left: 0.5% ;
 }
