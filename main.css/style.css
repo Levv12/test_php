@@ -1,9 +1,58 @@
 .card-body { 
-    width: 32%;
-    margin-left: 15% ;
+    width: 30%;
+    margin-left: 10% ;
+}
+
+.cvb { 
+    width: 30%;
+    margin-left: 3% ;
 }
 
 .d-flex { 
-   
+    
     margin-left: 0.5% ;
 }
+
+.frot { 
+   
+    margin-left: 10% ;
+}
+
+.pol { 
+   
+    margin-left: 1% ;
+}
+
+.frq {
+    display: inline-block;
+    margin-top: -10px;
+    }
+
+
+    .frq { 
+   
+        margin-left: -200% ;
+    }
+
+    .fgh { 
+    
+        margin-left: 1% ;
+    }
+    .jjj { 
+    
+        margin-left: 0% ;
+    }
+
+    .qq {
+        display: inline-block;
+        margin-top: -100px;
+        }
+
+       
+        
+        .xxx { 
+    
+            margin-left: 1% ;
+        }
+    
+    
